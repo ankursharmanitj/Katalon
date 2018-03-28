@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To Ingest in library drag</name>
+   <tag></tag>
+   <elementGuidId>25d0172d-6d75-40a4-b440-e7ad238f9d1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'To Ingest in library, drag and drop files, or click to select files from your computer' or . = 'To Ingest in library, drag and drop files, or click to select files from your computer')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;file&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ngf-drop</name>
+      <type>Main</type>
+      <value>onFileSelect($files)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ngf-select</name>
+      <type>Main</type>
+      <value>onFileSelect($files)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>_files</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop-box file-selector ng-pristine ng-untouched ng-valid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ngf-drag-over-class</name>
+      <type>Main</type>
+      <value>'dragover'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ngf-multiple</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ngf-max-files</name>
+      <type>Main</type>
+      <value>100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ngf-allow-dir</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To Ingest in library, drag and drop files, or click to select files from your computer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ui-view[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-9 col-sm-9 col-md-10&quot;]/div[@class=&quot;widget new-asset-widget ml-n-md mr-n-md&quot;]/div[@class=&quot;widget-body collapse in&quot;]/div[@class=&quot;upload-section mb-0 mt-lg&quot;]/div[@class=&quot;mt-md ng-isolate-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-5&quot;]/div[@class=&quot;widget-body uploaded-content&quot;]/div[@class=&quot;drop-box file-selector ng-pristine ng-untouched ng-valid&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
